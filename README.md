@@ -14,4 +14,6 @@ Crear un sistema en **Prolog** que permita:
 - Aplicar restricciones de presupuesto total.
 
 
+
 INTEGRANTE: KEVIN JIMENEZ GIL
+Video explicativo: https://youtu.be/dfDw5W-7Gnw?si=u5dOLotFPx50CAOm
