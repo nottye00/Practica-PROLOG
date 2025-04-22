@@ -12,3 +12,6 @@ Crear un sistema en **Prolog** que permita:
 - Filtrar por marca, tipo y presupuesto.
 - Generar reportes organizados.
 - Aplicar restricciones de presupuesto total.
+
+
+INTEGRANTE: KEVIN JIMENEZ GIL
